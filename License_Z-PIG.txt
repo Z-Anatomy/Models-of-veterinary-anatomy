@@ -24,12 +24,10 @@ With regard to this content, **you are licensed to**:
 Please be sure attribute any content copied or derived from the content of this file as follows:
 
 ### MODELS  
-   -**"BodyParts3D - The Database Center for Life Science - CC-BY-SA 2.1 Japan"**  
-   The original model can be downloaded [here](https://dbarchive.biosciencedbc.jp/en/bodyparts3d/download.html).  
       -**"Z-Anatomy - The libre 3D atlas of anatomy - CC-BY-SA 4.0"** 
    
 The following models have been used as reference/included and adapted: 
-   -"Pied postèrieur Cochon" (https://skfb.ly/oPHM9) by Tavernier Amaury is licensed under CC Attribution-NonCommercial-ShareAlike (http://creativecommons.org/licenses/by-nc-sa/4.0/).
+   -"Pied postérieur Cochon" (https://skfb.ly/oPHM9) by Tavernier Amaury is licensed under CC Attribution-NonCommercial-ShareAlike (http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
    -"Sus domestica (Domestic pig) (Swinia domowa)" (https://skfb.ly/otZCu) by Mammal Research Institute PAS, Poland is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/)." 
 
